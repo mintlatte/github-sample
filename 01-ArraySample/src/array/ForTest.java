@@ -8,7 +8,7 @@ public class ForTest {
 
 	public static void main(String[] args) {
 		// 3 x 4 사이즈의 2차원 배열의 선언
-		int[][] numbers = new int[3][4];
+		int[][] numbers = new int[30][40];
 		
 		// 값 할당
 		int value = 0;
